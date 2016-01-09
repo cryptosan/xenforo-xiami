@@ -1,4 +1,5 @@
 # xenforo-xiami
+Tested in 1.5.x
 
 You can add this for Xiami widget.
 But, be careful to add into your site.
